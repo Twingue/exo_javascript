@@ -1,0 +1,10 @@
+var a = "100";
+var b = 100;
+var c = 1.00;
+var d = true;
+document.write("ceci est une chaine de caracteres"+ " " + a );
+var b = b++ ;
+var c = a;
+document.write("</br> c est égal à " + c );
+var d = !d;
+document.write("</br> " + d);
